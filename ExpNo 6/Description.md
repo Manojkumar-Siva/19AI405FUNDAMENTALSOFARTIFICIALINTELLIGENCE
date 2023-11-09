@@ -55,6 +55,8 @@ class Game:
             return True
     def is_end(self):
     # Vertical win
+```
+```
         for i in range(0, 3):
             if (self.current_state[0][i] != '.' and
                 self.current_state[0][i] == self.current_state[1][i] and
