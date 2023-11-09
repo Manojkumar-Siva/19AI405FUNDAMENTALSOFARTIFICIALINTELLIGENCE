@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Manoj Kumar S</h3>
-<h3>Register Number: 212221230056</h3>
+<h3>Name: Jeeva M S</h3>
+<h3>Register Number: 212221230040</h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
