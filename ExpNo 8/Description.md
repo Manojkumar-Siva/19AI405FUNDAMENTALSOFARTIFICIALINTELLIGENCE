@@ -48,7 +48,8 @@ while(player):
             row+=1
         else:
             print("move denied")
-        
+```
+```
         print("current location: ",wumpus[row][column],"\n")
     elif choice == "l" :
         if column!=0:
